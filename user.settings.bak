@@ -77,7 +77,7 @@ InvertCameraY=false
 RightStickAimSensitivity=1
 MouseSensitivity=1
 [Gameplay]
-Difficulty=4
+Difficulty=3
 [LevelOfDetail]
 SwarmHideDistance=200
 DecalsHideDistance=40
