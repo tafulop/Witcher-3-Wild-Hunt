@@ -5,7 +5,9 @@ HasSetup=true
 uiVerticalFrameScale=1
 uiHorizontalFrameScale=1
 [Localization]
+RequestedSpeechLanguage=
 SpeechLanguage=EN
+RequestedTextLanguage=
 TextLanguage=EN
 [Viewport]
 VSync=true
